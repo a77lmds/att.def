@@ -1,5 +1,5 @@
 # att.def
-1 -Crie uma função para desenhar uma linha,
+1. Crie uma função para desenhar uma linha,
 usando o caractere'_'. O tamanho da linha deve ser definido na chamada da função.
 
 2. Crie uma função para informar se um número digitado pelo usuário é par.
